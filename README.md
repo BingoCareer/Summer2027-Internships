@@ -35,7 +35,7 @@ legal advice.
 Every open role with H-1B data, not only these internships: https://bingocareer.com
 
 <!-- TABLE_START -->
-Updated 2026-10-19 · 243 roles at 89 employers
+Updated 2026-10-20 · 243 roles at 89 employers
 
 | Company | Role | Location | H-1B filings | Apply | Posted |
 | --- | --- | --- | --- | --- | --- |
