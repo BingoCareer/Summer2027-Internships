@@ -35,11 +35,10 @@ legal advice.
 Every open role with H-1B data, not only these internships: https://bingocareer.com
 
 <!-- TABLE_START -->
-Updated 2026-10-20 · 243 roles at 89 employers
+Updated 2026-10-20 · 242 roles at 88 employers
 
 | Company | Role | Location | H-1B filings | Apply | Posted |
 | --- | --- | --- | --- | --- | --- |
-| ASSORT HEALTH | Software Engineering Internship (Jan - Apr 2027) | San Francisco | 5 (2025–2026) | [Apply](https://bingocareer.com/go/965317?utm_source=bingocareer&utm_medium=github) | 2026-10-16 |
 | TIKTOK INC | Software Engineer Intern (Recommendation Performance Efficiency) - 2027 Summer | San Jose, California, United States of America | 1,024 (2024–2026) | [Apply](https://bingocareer.com/go/940204?utm_source=bingocareer&utm_medium=github) | 2026-10-16 |
 | AIDASH INC | Software Engineering Intern, Backend | Palo Alto, California, United States | 4 (2025–2026) | [Apply](https://bingocareer.com/go/866564?utm_source=bingocareer&utm_medium=github) | 2026-10-15 |
 | T-MOBILE USA, INC | Summer 2027 Software Engineering Intern | Bellevue, Washington | 650 (2024–2026) | [Apply](https://bingocareer.com/go/940815?utm_source=bingocareer&utm_medium=github) | 2026-10-15 |
