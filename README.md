@@ -35,7 +35,7 @@ legal advice.
 Every open role with H-1B data, not only these internships: https://bingocareer.com
 
 <!-- TABLE_START -->
-Updated 2026-11-15 · 371 roles at 133 employers
+Updated 2026-11-16 · 371 roles at 133 employers
 
 🆕 first found in the last 2 days
 
@@ -46,12 +46,12 @@ Updated 2026-11-15 · 371 roles at 133 employers
 | FREEDOMROADS, LLC | 🆕 Data Engineering Intern | Chicago, IL | 5 (2024–2025) | [Apply](https://bingocareer.com/go/4430799?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
 | FREEDOMROADS, LLC | 🆕 Software Engineering Intern | Lincolnshire, IL | 5 (2024–2025) | [Apply](https://bingocareer.com/go/4430798?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
 | MICRON TECHNOLOGY, INC | Intern -  AI Engineer Platform | Boise, ID - Main Site | 1,016 (2024–2026) | [Apply](https://bingocareer.com/go/2207473?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
-| SAMSUNG ELECTRONICS AMERICA, INC | 🆕 Intern, AI Systems Performance Engineer | San Jose, California, United States | 271 (2024–2026) | [Apply](https://bingocareer.com/go/4282546?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
-| SAMSUNG ELECTRONICS AMERICA, INC | 🆕 Intern, ML Compiler (Kernel Auto-Tuning) | San Jose, California, United States | 271 (2024–2026) | [Apply](https://bingocareer.com/go/4282548?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
-| TIKTOK INC | 🆕 Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start | San Jose, California, United States of America | 1,293 (2024–2026) | [Apply](https://bingocareer.com/go/4289907?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
-| TIKTOK INC | 🆕 Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start | San Jose, California, United States of America | 1,293 (2024–2026) | [Apply](https://bingocareer.com/go/4289906?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
-| TRACE3, LLC | 🆕 Security Intern | Irvine, CA, United States | 2 (2025) | [Apply](https://bingocareer.com/go/4281746?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
-| VALEO NORTH AMERICA, INC | 🆕 Software Engineer Intern (Year-Round) | Troy, MI | 104 (2024–2026) | [Apply](https://bingocareer.com/go/4292830?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| SAMSUNG ELECTRONICS AMERICA, INC | Intern, AI Systems Performance Engineer | San Jose, California, United States | 271 (2024–2026) | [Apply](https://bingocareer.com/go/4282546?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| SAMSUNG ELECTRONICS AMERICA, INC | Intern, ML Compiler (Kernel Auto-Tuning) | San Jose, California, United States | 271 (2024–2026) | [Apply](https://bingocareer.com/go/4282548?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| TIKTOK INC | Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start | San Jose, California, United States of America | 1,293 (2024–2026) | [Apply](https://bingocareer.com/go/4289907?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| TIKTOK INC | Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start | San Jose, California, United States of America | 1,293 (2024–2026) | [Apply](https://bingocareer.com/go/4289906?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| TRACE3, LLC | Security Intern | Irvine, CA, United States | 2 (2025) | [Apply](https://bingocareer.com/go/4281746?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| VALEO NORTH AMERICA, INC | Software Engineer Intern (Year-Round) | Troy, MI | 104 (2024–2026) | [Apply](https://bingocareer.com/go/4292830?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
 | MICRON TECHNOLOGY, INC | Intern - IT Software Engineer | Boise, ID - Main Site +1 more | 1,016 (2024–2026) | [Apply](https://bingocareer.com/go/4188123?utm_source=bingocareer&utm_medium=github) | 2026-11-12 |
 | TIKTOK INC | Software Engineer - Intern (TikTok Search) - 2027 Start | San Jose, California, United States of America | 1,293 (2024–2026) | [Apply](https://bingocareer.com/go/4164451?utm_source=bingocareer&utm_medium=github) | 2026-11-12 |
 | FORMLABS, INC | 2027 (Summer) - Manufacturing - Manufacturing Test Software Intern | Somerville, MA | 36 (2024–2026) | [Apply](https://bingocareer.com/go/3989689?utm_source=bingocareer&utm_medium=github) | 2026-11-11 |
