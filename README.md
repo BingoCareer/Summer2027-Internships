@@ -35,32 +35,36 @@ legal advice.
 Every open role with H-1B data, not only these internships: https://bingocareer.com
 
 <!-- TABLE_START -->
-Updated 2026-11-23 · 375 roles at 134 employers
+Updated 2026-11-24 · 376 roles at 135 employers
 
 🆕 first found in the last 2 days
 
 | Company | Role | Location | H-1B filings | Apply | Posted |
 | --- | --- | --- | --- | --- | --- |
-| CISCO SYSTEMS, INC | 🆕 AI Cybersecurity Engineer I (Intern) – United States | RTP, North Carolina, US | 2,419 (2024–2026) | [Apply](https://bingocareer.com/go/5265910?utm_source=bingocareer&utm_medium=github) | 2026-11-20 |
+| TIKTOK INC | 🆕 Client Security & Data Foundation Software Engineer - Intern (TikTok BRIC) - 2027 Start | San Jose, California, United States of America | 1,293 (2024–2026) | [Apply](https://bingocareer.com/go/5474590?utm_source=bingocareer&utm_medium=github) | 2026-11-24 |
+| ASML US, LP | 🆕 Internship/Co-Op: AI Engineer | San Diego, CA, USA +1 more | 666 (2024–2026) | [Apply](https://bingocareer.com/go/5482878?utm_source=bingocareer&utm_medium=github) | 2026-11-23 |
+| BENCHLING, INC | 🆕 Software Engineer, Intern (Summer 2027) | San Francisco, CA | 22 (2024–2026) | [Apply](https://bingocareer.com/go/5424390?utm_source=bingocareer&utm_medium=github) | 2026-11-23 |
+| CADENCE DESIGN SYSTEMS, INC | 🆕 Software Engineering Intern - Circuit Simulation | AUSTIN | 597 (2024–2026) | [Apply](https://bingocareer.com/go/5500045?utm_source=bingocareer&utm_medium=github) | 2026-11-23 |
+| FORMFACTOR, INC | 🆕 AI/ML Engineering Intern | Livermore, CA | 36 (2024–2026) | [Apply](https://bingocareer.com/go/5516152?utm_source=bingocareer&utm_medium=github) | 2026-11-23 |
+| GENENTECH, INC | 🆕 2027 Summer Intern - Software Engineer (Robotics) - Lab Automation | South San Francisco | 264 (2024–2026) | [Apply](https://bingocareer.com/go/5479184?utm_source=bingocareer&utm_medium=github) | 2026-11-23 |
+| KLA CORPORATION | Software Engineering Intern | Milpitas, CA +1 more | 631 (2024–2026) | [Apply](https://bingocareer.com/go/5499974?utm_source=bingocareer&utm_medium=github) | 2026-11-23 |
+| OSCAR MANAGEMENT CORPORATION | 🆕 Software Engineering Intern | New York, New York, United States | 33 (2024–2026) | [Apply](https://bingocareer.com/go/5425532?utm_source=bingocareer&utm_medium=github) | 2026-11-23 |
+| T-MOBILE USA, INC | Summer 2027 Software Engineering Intern | Bellevue, Washington +1 more | 781 (2024–2026) | [Apply](https://bingocareer.com/go/5505627?utm_source=bingocareer&utm_medium=github) | 2026-11-23 |
+| T-MOBILE USA, INC | Summer 2027 Software Engineering Internship | Bellevue, Washington +2 more | 781 (2024–2026) | [Apply](https://bingocareer.com/go/5505628?utm_source=bingocareer&utm_medium=github) | 2026-11-23 |
+| CISCO SYSTEMS, INC | AI Cybersecurity Engineer I (Intern) – United States | RTP, North Carolina, US | 2,419 (2024–2026) | [Apply](https://bingocareer.com/go/5265910?utm_source=bingocareer&utm_medium=github) | 2026-11-20 |
 | JABIL INC | Software Engineering Intern | Austin, TX | 104 (2024–2026) | [Apply](https://bingocareer.com/go/5149547?utm_source=bingocareer&utm_medium=github) | 2026-11-20 |
-| NVIDIA CORPORATION | 🆕 Accounting AI Solution Engineer Intern - Summer 2027 | US, CA, Santa Clara | 4,234 (2024–2026) | [Apply](https://bingocareer.com/go/5264100?utm_source=bingocareer&utm_medium=github) | 2026-11-20 |
+| NVIDIA CORPORATION | Accounting AI Solution Engineer Intern - Summer 2027 | US, CA, Santa Clara | 4,234 (2024–2026) | [Apply](https://bingocareer.com/go/5264100?utm_source=bingocareer&utm_medium=github) | 2026-11-20 |
 | OPUSCLIP INC | AI Research Intern | Mountain View | 16 (2024–2026) | [Apply](https://bingocareer.com/go/5078789?utm_source=bingocareer&utm_medium=github) | 2026-11-20 |
-| T-MOBILE USA, INC | Summer 2027 Software Engineering Internship | Bellevue, Washington +1 more | 781 (2024–2026) | [Apply](https://bingocareer.com/go/5258489?utm_source=bingocareer&utm_medium=github) | 2026-11-20 |
 | AMPERITY, INC | Intern - Software Development Engineer | Seattle, WA | 2 (2024–2026) | [Apply](https://bingocareer.com/go/4973414?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
 | CADENCE DESIGN SYSTEMS, INC | Software Engineering Intern - Circuit Simulation infrastructure | SAN JOSE | 597 (2024–2026) | [Apply](https://bingocareer.com/go/5141240?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
 | HEARTFLOW, INC | Platform Engineering Intern (Summer 2027) | San Francisco, California | 15 (2025–2026) | [Apply](https://bingocareer.com/go/4960602?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
 | KLA CORPORATION | Software Application Engineer Intern | Austin, TX | 631 (2024–2026) | [Apply](https://bingocareer.com/go/5017226?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
 | NVIDIA CORPORATION | Finance AI Engineering Intern - Summer 2027 | US, CA, Santa Clara | 4,234 (2024–2026) | [Apply](https://bingocareer.com/go/5028179?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
 | PIPER SANDLER & CO | 2027 Summer Internship Program – AI & Data Engineering | Minneapolis, MN - HQ | 15 (2024–2026) | [Apply](https://bingocareer.com/go/4995809?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
-| SNOWFLAKE INC | Software Engineer Intern (AI / ML) - Summer 2027 | US-CA-Menlo Park | 804 (2024–2026) | [Apply](https://bingocareer.com/go/4938773?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
-| SNOWFLAKE INC | Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 | US-CA-Menlo Park | 804 (2024–2026) | [Apply](https://bingocareer.com/go/4938775?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
-| SNOWFLAKE INC | Software Engineer Intern (Database Engineering) - Summer 2027 | US-CA-Menlo Park | 804 (2024–2026) | [Apply](https://bingocareer.com/go/4938774?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
 | T-MOBILE USA, INC | Summer 2027 AI Engineering Internship - Site Reliability & Automation | Atlanta, Georgia | 781 (2024–2026) | [Apply](https://bingocareer.com/go/5022565?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
 | T-MOBILE USA, INC | Summer 2027 Software Engineering AI Internship | Atlanta, Georgia | 781 (2024–2026) | [Apply](https://bingocareer.com/go/5022562?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
-| T-MOBILE USA, INC | Summer 2027 Software Engineering Intern | Overland Park, Kansas | 781 (2024–2026) | [Apply](https://bingocareer.com/go/5022564?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
 | ZALE DELAWARE, INC | Application Management Software Intern | Support Center - Akron, OH | 19 (2025–2026) | [Apply](https://bingocareer.com/go/5041850?utm_source=bingocareer&utm_medium=github) | 2026-11-19 |
 | AIRBNB, INC | Software Engineering Intern (BS/MS) | San Francisco, California | 382 (2024–2026) | [Apply](https://bingocareer.com/go/4808303?utm_source=bingocareer&utm_medium=github) | 2026-11-18 |
-| FREEDOMROADS, LLC | Junior AI Engineering Intern | Chicago, IL | 5 (2024–2025) | [Apply](https://bingocareer.com/go/4918058?utm_source=bingocareer&utm_medium=github) | 2026-11-18 |
 | KLA CORPORATION | Software Applications Engineering Intern | Milpitas, CA | 631 (2024–2026) | [Apply](https://bingocareer.com/go/4897114?utm_source=bingocareer&utm_medium=github) | 2026-11-18 |
 | SAMSUNG ELECTRONICS AMERICA, INC | Intern, Architecture Research Engineer (Agentic AI Workload Characterization) | San Jose, California, United States | 271 (2024–2026) | [Apply](https://bingocareer.com/go/4864931?utm_source=bingocareer&utm_medium=github) | 2026-11-18 |
 | SAMSUNG ELECTRONICS AMERICA, INC | Intern, Architecture Research Engineer (MoE Placement for Serving at Scale) | San Jose, California, United States | 271 (2024–2026) | [Apply](https://bingocareer.com/go/4864932?utm_source=bingocareer&utm_medium=github) | 2026-11-18 |
@@ -69,11 +73,10 @@ Updated 2026-11-23 · 375 roles at 134 employers
 | STATE STREET BANK AND TRUST COMPANY | AI Engineering Intern - Full-time Internship (Jan - June 2027) | Cambridge, Massachusetts | 602 (2024–2026) | [Apply](https://bingocareer.com/go/4896857?utm_source=bingocareer&utm_medium=github) | 2026-11-18 |
 | STATE STREET BANK AND TRUST COMPANY | Agentic AI Engineering, Technology Intern - Full-time Internship (Jan - June 2027) | Burlington Massachusetts +1 more | 602 (2024–2026) | [Apply](https://bingocareer.com/go/4896853?utm_source=bingocareer&utm_medium=github) | 2026-11-18 |
 | STATE STREET BANK AND TRUST COMPANY | Software Engineering Intern - Full-time Internship (Jan - June 2027) | Boston, Massachusetts +6 more | 602 (2024–2026) | [Apply](https://bingocareer.com/go/4896859?utm_source=bingocareer&utm_medium=github) | 2026-11-18 |
-| KLA CORPORATION | Software Engineering Intern | Milpitas, CA | 631 (2024–2026) | [Apply](https://bingocareer.com/go/121014?utm_source=bingocareer&utm_medium=github) | 2026-11-17 |
+| AMAZON.COM SERVICES LLC | 🆕 Software Development Engineer Intern - Artificial General Intelligence (Summer 2027) | US, CA, Sunnyvale | 28,900 (2024–2026) | [Apply](https://bingocareer.com/go/5498321?utm_source=bingocareer&utm_medium=github) | 2026-11-17 |
 | LUMENTUM OPERATIONS LLC | Internship - SW Developer Support - Program Management Office | USA - CA - San Jose (Ridder) | 16 (2025–2026) | [Apply](https://bingocareer.com/go/4798438?utm_source=bingocareer&utm_medium=github) | 2026-11-17 |
 | NELNET BUSINESS SOLUTIONS, INC | Intern - IT Software Engineer (Summer 2027) | Lincoln, NE | 24 (2024–2026) | [Apply](https://bingocareer.com/go/4781346?utm_source=bingocareer&utm_medium=github) | 2026-11-17 |
 | RAKUTEN USA, INC | Intern - Software Engineer, AI User Experience | WA-Bellevue | 19 (2024–2026) | [Apply](https://bingocareer.com/go/1352952?utm_source=bingocareer&utm_medium=github) | 2026-11-17 |
-| SOROS FUND MANAGEMENT, LLC | Quantitative Strategist Intern | New York | 7 (2024–2026) | [Apply](https://bingocareer.com/go/4954724?utm_source=bingocareer&utm_medium=github) | 2026-11-17 |
 | STATE STREET BANK AND TRUST COMPANY | Full Stack Development Intern, Full-time Internship (Jan - June 2027) | Quincy, Massachusetts | 602 (2024–2026) | [Apply](https://bingocareer.com/go/4773465?utm_source=bingocareer&utm_medium=github) | 2026-11-17 |
 | STATE STREET BANK AND TRUST COMPANY | Software Engineer (Intergration Services) - Full-time Internship (Jan - June 2027) | Quincy, Massachusetts | 602 (2024–2026) | [Apply](https://bingocareer.com/go/4773467?utm_source=bingocareer&utm_medium=github) | 2026-11-17 |
 | ASML US, LP | Internship-Generative AI developer | San Jose, CA, USA | 666 (2024–2026) | [Apply](https://bingocareer.com/go/4635772?utm_source=bingocareer&utm_medium=github) | 2026-11-16 |
@@ -86,13 +89,18 @@ Updated 2026-11-23 · 375 roles at 134 employers
 | MICRON TECHNOLOGY, INC | Intern -  AI Engineer Platform | Boise, ID - Main Site | 1,016 (2024–2026) | [Apply](https://bingocareer.com/go/2207473?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
 | SAMSUNG ELECTRONICS AMERICA, INC | Intern, AI Systems Performance Engineer | San Jose, California, United States | 271 (2024–2026) | [Apply](https://bingocareer.com/go/4282546?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
 | SAMSUNG ELECTRONICS AMERICA, INC | Intern, ML Compiler (Kernel Auto-Tuning) | San Jose, California, United States | 271 (2024–2026) | [Apply](https://bingocareer.com/go/4282548?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| STRAVA, INC | 🆕 Software Engineering Intern, AI/ML Data Products | Strava SF | 27 (2025–2026) | [Apply](https://bingocareer.com/go/5440454?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| STRAVA, INC | 🆕 Software Engineering Intern, Android, Subscriptions | Strava SF | 27 (2025–2026) | [Apply](https://bingocareer.com/go/5440455?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| STRAVA, INC | 🆕 Software Engineering Intern, Server, Comms | Strava SF | 27 (2025–2026) | [Apply](https://bingocareer.com/go/5440450?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| STRAVA, INC | 🆕 Software Engineering Intern, Server, Next Sports | Strava SF | 27 (2025–2026) | [Apply](https://bingocareer.com/go/5440456?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| STRAVA, INC | 🆕 Software Engineering Intern, Server, Security | Strava SF | 27 (2025–2026) | [Apply](https://bingocareer.com/go/5440451?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
+| STRAVA, INC | 🆕 Software Engineering Intern, Server, User Lifecycle | Strava SF | 27 (2025–2026) | [Apply](https://bingocareer.com/go/5440453?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
 | TIKTOK INC | Machine Learning Engineer Intern (Data-Global E-Commerce-Search) - 2027 Start | San Jose, California, United States of America | 1,293 (2024–2026) | [Apply](https://bingocareer.com/go/4289907?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
 | TIKTOK INC | Machine Learning Scientist Intern (TikTok-Local Services) - 2027 Start | San Jose, California, United States of America | 1,293 (2024–2026) | [Apply](https://bingocareer.com/go/4289906?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
 | TRACE3, LLC | Security Intern | Irvine, CA, United States | 2 (2025) | [Apply](https://bingocareer.com/go/4281746?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
 | VALEO NORTH AMERICA, INC | Software Engineer Intern (Year-Round) | Troy, MI | 104 (2024–2026) | [Apply](https://bingocareer.com/go/4292830?utm_source=bingocareer&utm_medium=github) | 2026-11-13 |
 | LIGHTMATTER, INC | Data & AI Platform, Intern - Summer 2027 | Boston, MA | 38 (2024–2026) | [Apply](https://bingocareer.com/go/4135086?utm_source=bingocareer&utm_medium=github) | 2026-11-12 |
 | TIKTOK INC | Software Engineer - Intern (TikTok Search) - 2027 Start | San Jose, California, United States of America | 1,293 (2024–2026) | [Apply](https://bingocareer.com/go/4164451?utm_source=bingocareer&utm_medium=github) | 2026-11-12 |
-| BREX INC | Software Engineer, Intern  (Summer 2027) | San Francisco, California, United States | 38 (2024–2026) | [Apply](https://bingocareer.com/go/3981615?utm_source=bingocareer&utm_medium=github) | 2026-11-11 |
 | LIGHTMATTER, INC | IT and Security Intern – Summer 2027 | Boston, MA | 38 (2024–2026) | [Apply](https://bingocareer.com/go/4962730?utm_source=bingocareer&utm_medium=github) | 2026-11-11 |
 | MINITAB, LLC | Software Quality Engineer Intern | State College, Pennsylvania, United States | 2 (2026) | [Apply](https://bingocareer.com/go/3991456?utm_source=bingocareer&utm_medium=github) | 2026-11-11 |
 | SAMSUNG ELECTRONICS AMERICA, INC | Intern, AI System Architecture Research Scientist | San Jose, California, United States | 271 (2024–2026) | [Apply](https://bingocareer.com/go/4035571?utm_source=bingocareer&utm_medium=github) | 2026-11-11 |
@@ -111,8 +119,6 @@ Updated 2026-11-23 · 375 roles at 134 employers
 | PALANTIR TECHNOLOGIES INC | Software Engineer, Internship - Connectivity Platform and Product | Denver, CO +1 more | 292 (2024–2026) | [Apply](https://bingocareer.com/go/3851657?utm_source=bingocareer&utm_medium=github) | 2026-11-10 |
 | SKYDIO, INC | Middleware Software Engineer Intern - Summer 2027 | San Mateo, California, United States | 54 (2024–2026) | [Apply](https://bingocareer.com/go/3867318?utm_source=bingocareer&utm_medium=github) | 2026-11-10 |
 | TOYOTA MOTOR ENGINEERING & MANUFACTURING NORTH AMERICA, INC (TEMA) | Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) | Los Altos, CA | 83 (2024–2026) | [Apply](https://bingocareer.com/go/3919394?utm_source=bingocareer&utm_medium=github) | 2026-11-10 |
-| ASML US, LP | Internship- Co-Op: AI Engineer | San Diego, CA, USA +1 more | 666 (2024–2026) | [Apply](https://bingocareer.com/go/3804966?utm_source=bingocareer&utm_medium=github) | 2026-11-09 |
-| ASML US, LP | Internship-Co-Op: AI Engineer | San Diego, CA, USA | 666 (2024–2026) | [Apply](https://bingocareer.com/go/3804967?utm_source=bingocareer&utm_medium=github) | 2026-11-09 |
 | EPIC GAMES, INC | AI Programmer Intern | Cary,North Carolina,United States | 72 (2024–2026) | [Apply](https://bingocareer.com/go/3866657?utm_source=bingocareer&utm_medium=github) | 2026-11-09 |
 | DATAROBOT INC | Software Design Engineer Intern | Boston, Massachusetts, US | 7 (2024–2026) | [Apply](https://bingocareer.com/go/3476058?utm_source=bingocareer&utm_medium=github) | 2026-11-06 |
 | KLA CORPORATION | Software Intern | Milpitas, CA | 631 (2024–2026) | [Apply](https://bingocareer.com/go/3454560?utm_source=bingocareer&utm_medium=github) | 2026-11-06 |
@@ -163,8 +169,6 @@ Updated 2026-11-23 · 375 roles at 134 employers
 | PARALLEL SYSTEMS, INC | Software Engineering Intern (Embedded, Backend, Fullstack) | Los Angeles, CA | 1 (2025) | [Apply](https://bingocareer.com/go/2051982?utm_source=bingocareer&utm_medium=github) | 2026-10-26 |
 | VERITAS TECHNOLOGIES LLC | Software Engineering Intern (Summer 2027) | Santa Clara, CA - USA (Office) | 4 (2024) | [Apply](https://bingocareer.com/go/2105098?utm_source=bingocareer&utm_medium=github) | 2026-10-26 |
 | AMPERESAND INC | AI/ML Engineering Intern | Sunnyvale, California, United States | 24 (2025–2026) | [Apply](https://bingocareer.com/go/1634902?utm_source=bingocareer&utm_medium=github) | 2026-10-23 |
-| ASML US, LP | Internship - Application Software QA Engineer | San Jose, CA, USA | 666 (2024–2026) | [Apply](https://bingocareer.com/go/1701830?utm_source=bingocareer&utm_medium=github) | 2026-10-23 |
-| ASML US, LP | Internship - Software Engineer In Test (MOD) | San Jose, CA, USA | 666 (2024–2026) | [Apply](https://bingocareer.com/go/1701833?utm_source=bingocareer&utm_medium=github) | 2026-10-23 |
 | ASML US, LP | Internship- Platform Software Engineer In Test | San Jose, CA, USA | 666 (2024–2026) | [Apply](https://bingocareer.com/go/1827780?utm_source=bingocareer&utm_medium=github) | 2026-10-23 |
 | EPIC GAMES, INC | Tools Programmer Intern (Graphics) | Cary,North Carolina,United States | 72 (2024–2026) | [Apply](https://bingocareer.com/go/1624495?utm_source=bingocareer&utm_medium=github) | 2026-10-23 |
 | INTEL CORPORATION | AI Hardware Engineering Intern | US, California, Santa Clara | 4,524 (2024–2026) | [Apply](https://bingocareer.com/go/1652922?utm_source=bingocareer&utm_medium=github) | 2026-10-23 |
@@ -213,7 +217,6 @@ Updated 2026-11-23 · 375 roles at 134 employers
 | BYTEDANCE INC | AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer | San Jose, California, United States of America +1 more | 1,806 (2024–2026) | [Apply](https://bingocareer.com/go/374606?utm_source=bingocareer&utm_medium=github) | 2026-10-09 |
 | BYTEDANCE INC | Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer | San Jose, California, United States of America +1 more | 1,806 (2024–2026) | [Apply](https://bingocareer.com/go/374478?utm_source=bingocareer&utm_medium=github) | 2026-10-09 |
 | BYTEDANCE INC | Backend Development Engineer Intern (Infrastructure Platform Delivery) - 2027 Summer | San Jose, California, United States of America | 1,806 (2024–2026) | [Apply](https://bingocareer.com/go/374603?utm_source=bingocareer&utm_medium=github) | 2026-10-09 |
-| BYTEDANCE INC | Data Lake Infrastructure & Data Analytics Research Engineer Intern (AML-Ark-US) - 2027 Summer | San Jose, California, United States of America +1 more | 1,806 (2024–2026) | [Apply](https://bingocareer.com/go/374578?utm_source=bingocareer&utm_medium=github) | 2026-10-09 |
 | BYTEDANCE INC | GPU/AI Application System Software Engineer Intern (System Technologies and Engineering) - 2027 Summer | San Jose, California, United States of America | 1,806 (2024–2026) | [Apply](https://bingocareer.com/go/374713?utm_source=bingocareer&utm_medium=github) | 2026-10-09 |
 | BYTEDANCE INC | Machine Learning Engineer Intern (AML-Engine-Orchestration) - 2027 Start | Seattle, Washington, United States of America +1 more | 1,806 (2024–2026) | [Apply](https://bingocareer.com/go/374536?utm_source=bingocareer&utm_medium=github) | 2026-10-09 |
 | BYTEDANCE INC | Multi-Cloud CDN Scheduling Platform Engineer Intern (CDN Platform) - 2027 Summer | San Jose, California, United States of America +2 more | 1,806 (2024–2026) | [Apply](https://bingocareer.com/go/374861?utm_source=bingocareer&utm_medium=github) | 2026-10-09 |
@@ -358,7 +361,6 @@ Updated 2026-11-23 · 375 roles at 134 employers
 | CLEARWATER ANALYTICS, LLC | Quant Developer Intern | Office - New York +3 more | 61 (2024–2026) | [Apply](https://bingocareer.com/go/1211487?utm_source=bingocareer&utm_medium=github) | 2026-09-15 |
 | GECKO ROBOTICS, INC | Software Engineering Intern | Pittsburgh | 8 (2024–2026) | [Apply](https://bingocareer.com/go/278942?utm_source=bingocareer&utm_medium=github) | 2026-09-15 |
 | BASE POWER, INC | Embedded Software Engineering Intern | Austin, TX | 13 (2025–2026) | [Apply](https://bingocareer.com/go/262543?utm_source=bingocareer&utm_medium=github) | 2026-09-14 |
-| BASE POWER, INC | Quantitative Developer Intern | Austin, TX | 13 (2025–2026) | [Apply](https://bingocareer.com/go/262542?utm_source=bingocareer&utm_medium=github) | 2026-09-14 |
 | BASE POWER, INC | Software Engineering Intern | Austin, TX | 13 (2025–2026) | [Apply](https://bingocareer.com/go/262544?utm_source=bingocareer&utm_medium=github) | 2026-09-14 |
 | CYVL, INC | Software Engineering Intern - SWE/ML (Summer 2027) | Boston, Massachusetts | 1 (2024) | [Apply](https://bingocareer.com/go/649699?utm_source=bingocareer&utm_medium=github) | 2026-09-14 |
 | FIGMA, INC | Software Engineer Intern (Summer 2027) | San Francisco, CA • New York, NY | 108 (2024–2026) | [Apply](https://bingocareer.com/go/59500?utm_source=bingocareer&utm_medium=github) | 2026-09-14 |
@@ -404,7 +406,6 @@ Updated 2026-11-23 · 375 roles at 134 employers
 | MERCOR.IO CORPORATION | Data Science Intern | San Francisco | 48 (2025–2026) | [Apply](https://bingocareer.com/go/288239?utm_source=bingocareer&utm_medium=github) | 2026-08-19 |
 | NOTION LABS, INC | Software Engineer Intern (Summer 2027) | San Francisco, California | 49 (2024–2026) | [Apply](https://bingocareer.com/go/4940?utm_source=bingocareer&utm_medium=github) | 2026-08-14 |
 | DV TRADING LLC | Software Engineer Intern - Summer 2027 (DV Commodities) | New York | 2 (2026) | [Apply](https://bingocareer.com/go/652704?utm_source=bingocareer&utm_medium=github) | 2026-08-10 |
-| ROBLOX CORPORATION | \[Summer 2027\] Software Engineer Intern | San Mateo, CA, United States | 430 (2024–2026) | [Apply](https://bingocareer.com/go/219172?utm_source=bingocareer&utm_medium=github) | 2026-08-05 |
 | DV TRADING LLC | Quantitative Risk Intern - Summer 2027 | Chicago | 2 (2026) | [Apply](https://bingocareer.com/go/652690?utm_source=bingocareer&utm_medium=github) | 2026-08-04 |
 | MERCOR.IO CORPORATION | Software Engineer Intern | San Francisco | 48 (2025–2026) | [Apply](https://bingocareer.com/go/288242?utm_source=bingocareer&utm_medium=github) | 2026-08-04 |
 | TEAM BELVEDERE, LLC | Quantitative Trading Intern - Summer 2027 | Chicago, Illinois | 52 (2024–2026) | [Apply](https://bingocareer.com/go/222266?utm_source=bingocareer&utm_medium=github) | 2026-08-04 |
